@@ -26,11 +26,11 @@ The game tracks your **best score (fewest attempts)** across multiple rounds.
 ---
 
 ## ▶️ How to Run
-
+```bash
 git clone https://github.com/<your-username>/number-guessing-game.git
 cd number-guessing-game
 python guessing_game.py
-
+```
 ---
 
 ## 🧪 Running Tests
