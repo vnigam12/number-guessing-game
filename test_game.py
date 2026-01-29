@@ -1,5 +1,5 @@
 import unittest
-from guessing_game import play_game
+from number_guessing_game import play_game
 
 
 class TestGuessingGame(unittest.TestCase):
