@@ -34,11 +34,13 @@ python guessing_game.py
 ---
 
 ## 🧪 Running Tests
+```bash
 python -m unittest discover tests
-
+```
 ---
 
 ## 🎮 Sample Gameplay
+```text
 Enter the start range number: 1
 Enter the end range number: 20
 
@@ -49,16 +51,19 @@ Attempt 2/10 - Enter your guess: 7
 🎉 Correct! You guessed it in 2 attempts.
 🏆 New best score!
 Best score so far: 2 attempts
-
+```
 ---
 
 ## 💡 Future Enhancements
-Difficulty levels
-Guess history
-Persistent best score (file or DB)
-Web or GUI version
+
+- Difficulty levels
+- Guess history
+- Persistent best score (file or DB)
+- Web or GUI version
 
 ---
 
 ## 📜 License
+```text
 MIT License
+```
