@@ -27,13 +27,18 @@ The game tracks your **best score (fewest attempts)** across multiple rounds.
 
 ## ▶️ How to Run
 
-```bash
 git clone https://github.com/<your-username>/number-guessing-game.git
 cd number-guessing-game
 python guessing_game.py
-🧪 Running Tests
+
+---
+
+## 🧪 Running Tests
 python -m unittest discover tests
-🎮 Sample Gameplay
+
+---
+
+## 🎮 Sample Gameplay
 Enter the start range number: 1
 Enter the end range number: 20
 
@@ -45,11 +50,15 @@ Attempt 2/10 - Enter your guess: 7
 🏆 New best score!
 Best score so far: 2 attempts
 
-💡 Future Enhancements
+---
+
+## 💡 Future Enhancements
 Difficulty levels
 Guess history
 Persistent best score (file or DB)
 Web or GUI version
 
-📜 License
+---
+
+## 📜 License
 MIT License
